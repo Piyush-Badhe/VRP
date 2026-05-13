@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+pymupdf
+python-docx
+pandas
+fitz
+pdfplumber
+docx

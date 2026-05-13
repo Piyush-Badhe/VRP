@@ -1,0 +1,137 @@
+[
+    {
+        "document_name": "piyushcv.pdf",
+        "effective_date": "Not identified",
+        "clauses": [
+            {
+                "clause": "Effective Date",
+                "status": "Missing",
+                "snippet": ""
+            },
+            {
+                "clause": "Agreement Term",
+                "status": "Missing",
+                "snippet": ""
+            },
+            {
+                "clause": "Renewal Clause",
+                "status": "Missing",
+                "snippet": ""
+            },
+            {
+                "clause": "Termination",
+                "status": "Missing",
+                "snippet": ""
+            },
+            {
+                "clause": "Payment Terms",
+                "status": "Missing",
+                "snippet": ""
+            },
+            {
+                "clause": "Confidentiality",
+                "status": "Missing",
+                "snippet": ""
+            },
+            {
+                "clause": "Limitation of Liability",
+                "status": "Missing",
+                "snippet": ""
+            },
+            {
+                "clause": "Governing Law",
+                "status": "Missing",
+                "snippet": ""
+            },
+            {
+                "clause": "Data Security",
+                "status": "Missing",
+                "snippet": ""
+            },
+            {
+                "clause": "Service Level",
+                "status": "Missing",
+                "snippet": ""
+            }
+        ],
+        "flags": [
+            "Effective Date clause not identified.",
+            "Agreement Term clause not identified.",
+            "Renewal Clause clause not identified.",
+            "Termination clause not identified.",
+            "Payment Terms clause not identified.",
+            "Confidentiality clause not identified.",
+            "Limitation of Liability clause not identified.",
+            "Governing Law clause not identified.",
+            "Data Security clause not identified.",
+            "Service Level clause not identified."
+        ],
+        "summary": "Document Review Summary\n\nThe agreement document 'piyushcv.pdf' was processed successfully.\n\nThe detected effective date is: Not identified.\n\nA total of 0 key legal and operational clauses were identified,\nwhile 10 clauses require additional manual review.\n\nKey review observations:\n\n- Effective Date clause not identified.\n- Agreement Term clause not identified.\n- Renewal Clause clause not identified.\n- Termination clause not identified.\n- Payment Terms clause not identified.\n- Confidentiality clause not identified.\n- Limitation of Liability clause not identified.\n- Governing Law clause not identified.\n- Data Security clause not identified.\n- Service Level clause not identified.\n\nThis review was generated using automated clause detection logic and should\nbe validated by the legal operations team before final approval."
+    },
+    {
+        "document_name": "Vendor Agreement Template-02.2021_2.pdf",
+        "effective_date": "until\nthe Vendor Obligations are exhausted as referenced in Section 8",
+        "clauses": [
+            {
+                "clause": "Effective Date",
+                "status": "Found",
+                "snippet": "endor\u201d (including homes it offers to sell or agrees to sell) from and after the Effective Date until the Vendor Obligations are exhausted as referenced in Section 8.1; 1.2.2.6 \u201cIndemnified Amounts\u201d means the amounts to b"
+            },
+            {
+                "clause": "Agreement Term",
+                "status": "Missing",
+                "snippet": ""
+            },
+            {
+                "clause": "Renewal Clause",
+                "status": "Missing",
+                "snippet": ""
+            },
+            {
+                "clause": "Termination",
+                "status": "Found",
+                "snippet": "provide appropriate replacement agreement(s) to Tarion should such agreement be terminated, modified or replaced with a similar agreement with another licensed builder. The agreement(s) shall provide for the builder to comp"
+            },
+            {
+                "clause": "Payment Terms",
+                "status": "Missing",
+                "snippet": ""
+            },
+            {
+                "clause": "Confidentiality",
+                "status": "Missing",
+                "snippet": ""
+            },
+            {
+                "clause": "Limitation of Liability",
+                "status": "Missing",
+                "snippet": ""
+            },
+            {
+                "clause": "Governing Law",
+                "status": "Found",
+                "snippet": " otherwise expressly provided. Vendor Agreement February 2021 Page 4 of 20 1.11 Governing Law, Attornment 1.11.1 This Agreement shall be governed by and construed in accordance with the laws of the Province of Ontario and the"
+            },
+            {
+                "clause": "Data Security",
+                "status": "Missing",
+                "snippet": ""
+            },
+            {
+                "clause": "Service Level",
+                "status": "Missing",
+                "snippet": ""
+            }
+        ],
+        "flags": [
+            "Agreement Term clause not identified.",
+            "Renewal Clause clause not identified.",
+            "Payment Terms clause not identified.",
+            "Confidentiality clause not identified.",
+            "Limitation of Liability clause not identified.",
+            "Data Security clause not identified.",
+            "Service Level clause not identified."
+        ],
+        "summary": "Document Review Summary\n\nThe agreement document 'Vendor Agreement Template-02.2021_2.pdf' was processed successfully.\n\nThe detected effective date is: until\nthe Vendor Obligations are exhausted as referenced in Section 8.\n\nA total of 3 key legal and operational clauses were identified,\nwhile 7 clauses require additional manual review.\n\nKey review observations:\n\n- Agreement Term clause not identified.\n- Renewal Clause clause not identified.\n- Payment Terms clause not identified.\n- Confidentiality clause not identified.\n- Limitation of Liability clause not identified.\n- Data Security clause not identified.\n- Service Level clause not identified.\n\nThis review was generated using automated clause detection logic and should\nbe validated by the legal operations team before final approval."
+    }
+]
